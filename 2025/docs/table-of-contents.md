@@ -1,0 +1,18 @@
+# Table of Contents 
+
+* [Table of Contents](./table-of-contents.md)
+* [Introduction](./introduction.md)
+* [Ranking Criteria](./ranking-criteria.md)
+* [Methodology and Data](./methodology-and-data.md)
+* [OWASP Non-Human Identities Top 10 - 2025](./top-10-2025.md)
+* [NHI1:2025 Improper Offboarding](1-improper-offboarding.md)
+* [NHI2:2025 Secret Leakage](2-secret-leakage.md)
+* [NHI3:2025 Vulnerable Third-Party NHI](3-vulnerable-third-party-nhi.md)
+* [NHI4:2025 Insecure Authentication](4-insecure-authentication.md)
+* [NHI5:2025 Overprivileged NHI](5-overprivileged-nhi.md)
+* [NHI6:2025 Insecure Cloud Deployment Configurations](6-insecure-cloud-deployment-configurations.md)
+* [NHI7:2025 Long-Lived Secrets](7-long-lived-secrets.md)
+* [NHI8:2025 Environment Isolation](8-environment-isolation.md)
+* [NHI9:2025 NHI Reuse](9-nhi-reuse.md)
+* [NHI10:2025 Human Use of NHI](10-human-use-of-nhi.md)
+* [Acknowledgments](acknowledgments.md)
