@@ -1,3 +1,5 @@
+baseurl: "/www-project-non-human-identities-top-10"
+
 remote_theme: "owasp/www--site-theme@main"
 plugins:
  - jekyll-include-cache-0.2.0
